@@ -26,8 +26,6 @@ Hey there! 👋 I'm Dreamy, known as DreamyFX on GitHub. I've been in the coding
 
 ### GitHub Stats
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=dreamyfx)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dreamyfx)
 [![trophy](https://github-profile-trophy.vercel.app/?username=dreamyfx)](https://github.com/dreamyfx)
 
 ## Projects Showcase
