@@ -1,7 +1,5 @@
 # DreamyFX GitHub Profile
 
-![Header Image](https://source.unsplash.com/user/username/1600x400)
-
 ### About Me
 
 Hey there! 👋 I'm Dreamy, known as DreamyFX on GitHub. I've been in the coding game since December 2021, and my journey has been nothing short of exciting. With a passion for diverse programming languages like Python, C#, Java, and JavaScript, I enjoy combining creativity and functionality in my projects.
@@ -31,28 +29,6 @@ Hey there! 👋 I'm Dreamy, known as DreamyFX on GitHub. I've been in the coding
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=dreamyfx)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dreamyfx)
 [![trophy](https://github-profile-trophy.vercel.app/?username=dreamyfx)](https://github.com/dreamyfx)
-[![GitHub# Streak](https://streak-stats.demolab.com Dream/?user=dreamyfx)](https://y's GitHub Profilegit.io
-
-[![/streakDreamyFX-stats)
-
-### Get in Touch GitHub Header
-
-](https://github- **Email.com/dreamyfx.png:** [dreamyfx@example.com](mailto:d)](reamyfx@example.com)
-- **LinkedIn:** [DreamyFX](https://httpswww://.linkedin.comgithub.com/dreamyfx)
-
-##/in/d Skills & Interests
-
-Dreamreamyyfx,)
-- **Website:** known [dream asyfx.github.io](https "://dreamyfxDream.github.io)
-
-Let's connect and code something amazing together! 🚀
-
-### Badges
-
-- [![GitHub followers](https://img.shyields.io/github/fFXollowers/dreamyfx?style" on GitHub,=social)](https://github.com/dreamyfx)
-- [![GitHub stars](https://img.shields.io/github/stars/d is areamyfx?style=social)](https://github.com/dreamyfx)
-- [![GitHub forks](https://img.shields.io/github/forks versatile programmer/dreamyfx)](https://github.com with a diverse skill/dreamyfx set)
- covering languages like Python, C#, Java, JavaScript, and more. This array of skills reflects their broad range of interests, including educational projects, gaming-related content, and security tools. With 109 commits across various repositories, Dreamy's coding habits showcase a consistent level of engagement and dedication to their craft.
 
 ## Projects Showcase
 
@@ -61,7 +37,7 @@ Dreamy's GitHub presence is characterized by a combination of personal projects 
 - [reality-v3](https://github.com/dreamyfx/reality-v3)
 - [backdoor-plugin](https://github.com/dreamyfx/backdoor-plugin)
 - [ABE-Decryption](https://github.com/dreamyfx/ABE-Decryption)
-- Collaborative work on repositories like "ABE-Decryption" by Majanito and "Weedhack-Remover"
+- Collaborative work on repositories like "ABE-Decryption" by Majanito
 
 These projects underscore Dreamy's passion for exploration and innovation across a range of disciplines within programming.
 
@@ -71,12 +47,6 @@ These projects underscore Dreamy's passion for exploration and innovation across
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dreamyfx)
 [![trophy](https://github-profile-trophy.vercel.app/?username=dreamyfx)](https://github.com/dreamyfx)
 [![GitHub Streak](https://streak-stats.demolab.com/?user=dreamyfx)](https://git.io/streak-stats) 
-
-## Badges
-
-Add badges here to showcase achievements, skills, or certifications:
-- Example badge 1
-- Example badge 2
 
 ## Summary
 
