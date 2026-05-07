@@ -15,5 +15,6 @@
   
 Overall, Dreamy's GitHub activity shows a consistent dedication to coding and development in a variety of languages and projects. Their willingness to collaborate and contribute to other repositories highlights a strong community-focused approach to their work.
 
-[View Dreamy's GitHub Profile](https://github.com/dreamyfx)
-[View Dreamy's most starred repository: iliberateplus](https://github.com/dreamyfx/iliberateplus)
+![DreamyFX's GitHub stats](https://github-readme-stats.vercel.app/api?username=dreamyfx&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dreamyfx&layout=compact&theme=tokyonight)
