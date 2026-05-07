@@ -24,9 +24,6 @@ Hey there! 👋 I'm Dreamy, known as DreamyFX on GitHub. I've been in the coding
 - **[backdoor-plugin](https://github.com/dreamyfx/backdoor-plugin)**
 - **[ABE-Decryption](https://github.com/dreamyfx/ABE-Decryption)**
 
-### GitHub Stats
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=dreamyfx)](https://github.com/dreamyfx)
 
 ## Projects Showcase
 
@@ -38,13 +35,6 @@ Dreamy's GitHub presence is characterized by a combination of personal projects 
 - Collaborative work on repositories like "ABE-Decryption" by Majanito
 
 These projects underscore Dreamy's passion for exploration and innovation across a range of disciplines within programming.
-
-## GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dreamyfx)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dreamyfx)
-[![trophy](https://github-profile-trophy.vercel.app/?username=dreamyfx)](https://github.com/dreamyfx)
-[![GitHub Streak](https://streak-stats.demolab.com/?user=dreamyfx)](https://git.io/streak-stats) 
 
 ## Summary
 
