@@ -48,6 +48,3 @@ Dreamy's GitHub profile is a testament to their passion for programming, creativ
 
 [![My Skills](https://skillicons.dev/icons?i=arduino,bash,c,cpp,cs,dotnet,cloudflare,css,discord,bots,git,github,gitlab,githubactions,html,java,linux,powershell,py,raspberrypi,firebase)](https://skillicons.dev)
 
-## AI & Tools
-
-[![My Skills](https://skillicons.dev/icons?i=claude,revolt)](https://skillicons.dev)
