@@ -1,0 +1,19 @@
+name: User Statistician
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "0 0 * * *"
+
+jobs:
+  stats:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Run User Statistician
+        uses: cicirello/user-statistician@v1.25.0
+        with:
+          github-token: ${{ secrets.GITHUB_TOKEN }}
