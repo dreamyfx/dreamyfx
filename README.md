@@ -40,33 +40,14 @@ These projects underscore Dreamy's passion for exploration and innovation across
 
 Dreamy's GitHub profile is a testament to their passion for programming, creativity in project development, and willingness to engage in collaborative efforts. By exploring their diverse range of projects and contributions, it is clear that Dreamy is a dedicated and skilled programmer who strives for excellence in all their endeavors. Visit Dreamy's profile to delve deeper into their world of coding innovation.
 
-[Visit Dreamy's GitHub Profile](https://github.com/dreamfx)
-
 ![DreamyFX's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=dreamyfx&show_icons=true&theme=tokyonight)
 
 ![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=dreamyfx&layout=compact&theme=tokyonight)
 
 ### Tech Stack
 
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnubash&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![CSharp](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![CPP](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css&logoColor=white)
-![Discord Bots](https://img.shields.io/badge/Discord_Bots-5865F2?style=for-the-badge&logo=discord&logoColor=white)
-![DotNet](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![JS Linux](https://img.shields.io/badge/JSLinux-000000?style=for-the-badge&logo=linux&logoColor=white)
-![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white)
-![Revolt.chat](https://img.shields.io/badge/Revolt.chat-ff4655?style=for-the-badge&logo=Revolt.chat&logoColor=white)
+[![My Skills](https://skillicons.dev/icons?i=arduino,bash,c,cpp,cs,dotnet,cloudflare,css,discord,bots,git,github,gitlab,githubactions,html,java,linux,powershell,py,raspberrypi,firebase)](https://skillicons.dev)
+
+## AI & Tools
+
+[![My Skills](https://skillicons.dev/icons?i=claude,revolt)](https://skillicons.dev)
